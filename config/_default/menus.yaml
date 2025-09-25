@@ -1,0 +1,20 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 805c9c65-7dfd-a733-048b-6047b1f24e3c
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 620ec072-d2d3-eca9-d7e2-fdd21236359a
+  name: Readings
+  pageRef: /pages/readings/
+  weight: 20
+- identifier: 3271340d-4bc5-81f6-8188-e4d8b086e414
+  name: Further Readings
+  pageRef: /pages/readings/further-readings
+  parent: 620ec072-d2d3-eca9-d7e2-fdd21236359a
+  weight: 30
+- identifier: bfd072a8-42e4-98ae-757f-afc875cf1871
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 40
